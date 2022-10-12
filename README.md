@@ -7,7 +7,7 @@ After learning languages like <strong>Python</strong>, <strong>C</strong> and <s
 - 🌱 I’m currently learning Mobile development: Java, JavaScript, ReactNative and other WebDev Frameworks
 - 😄 Pronouns: He/Him
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmadeuGMeniconi&bg_color=283733&border_color=365D3E&text_color=AEBAC7&show_icons=true&icon_color=365D3E&title_color=36833E)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmadeuGMeniconi&bg_color=283733&border_color=365D3E&text_color=AEBAC7&show_icons=true&icon_color=365D3E&title_color=36833E&card_width=1050)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmadeuGMeniconi&layout=compact&bg_color=283733&border_color=365D3E&text_color=AEBAC7&title_color=AEBAC7&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmadeuGMeniconi&layout=compact&bg_color=283733&border_color=365D3E&text_color=AEBAC7&title_color=AEBAC7&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
 
