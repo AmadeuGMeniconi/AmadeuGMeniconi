@@ -6,7 +6,6 @@ After learning languages like <strong>Python</strong>, <strong>C</strong>, and <
 ## Now
 **[2023] -** Working as a freelancer and Shopify app/theme developer. 
 
-- 🌱 I’m currently learning Mobile and Web development: JavaScript/TypeScript, React/React Native, and NextJS.
 - 😄 Pronouns: He/Him
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmadeuGMeniconi&bg_color=283733&border_color=365D3E&text_color=AEBAC7&show_icons=true&icon_color=365D3E&title_color=AEBAC7&text_bold=false&card_width=1050)](https://github.com/anuraghazra/github-readme-stats)
